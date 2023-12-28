@@ -6,7 +6,7 @@
 
 For example:
 
-```
+```js
 function sum(x=0, y=0) {
     console.log(x + y);
 }
@@ -20,7 +20,7 @@ The *function* **sum** is not a function because **it does not return** any valu
 
 Another example:
 
-```
+```js
 function multiply(x=0, y=0) {
     return x * y;
 }

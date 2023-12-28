@@ -4,7 +4,7 @@
 
 For example, is better to have this:
 
-```
+```js
 function shippingRate(size, weight, speed) {
     return ((size + 1) * weight) + speed;
 }
@@ -12,7 +12,7 @@ function shippingRate(size, weight, speed) {
 
 than this:
 
-```
+```js
 function f(x, y, z) {
     return ((x + 1) * y) + z;
 }
