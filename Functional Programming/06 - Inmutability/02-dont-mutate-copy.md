@@ -26,3 +26,8 @@ function processOrder(order) {
     saveToDataBase(processedOrder);
 }
 ```
+
+To resume the mutability handling we can use this 2 principles:
+
+1. **If we need to pass a structure that is inmutable**, we should annotate it with something like object.freeze **to say to the reader, don't worry about it, it can't be changed.**
+2. When you receive a data structure, no matter what, **assume that it should be read-only.**
