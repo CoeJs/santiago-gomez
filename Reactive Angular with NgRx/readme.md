@@ -4,4 +4,4 @@ The purpose of this section is to learn and get a deeper knowledgement about *st
 
 To achieve that I am following the **[Reactive Angular with NgRx](https://frontendmasters.com/courses/angular-reactive/)** course by **Lukas Ruebbelke**.
 
-In this repository will be all the notes related to the course but for organization and simplicity, the code of the exersices will be updated in this **[Magorasquare/angular-reactive-workshop](https://github.com/Magorasquare/angular-reactive-workshop)** git repository.
+In this repository will be all the notes related to the course but for organization and simplicity, the code of the exersices will be updated in the **[Magorasquare/angular-reactive-workshop](https://github.com/Magorasquare/angular-reactive-workshop)** git repository.
